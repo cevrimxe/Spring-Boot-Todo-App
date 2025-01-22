@@ -67,8 +67,8 @@ http://localhost:8080
 If you prefer not to use Maven directly, you can run the application using the prebuilt **JAR file** and a **BAT file**:
 
 1. **Download the JAR and BAT Files**:
-   - [Download JAR](https://drive.google.com/file/d/18M0Z06qWJEnYlXzm4EJfqCLOuKxapmfF/view?usp=sharing){:target="_blank"}
-   - [Download BAT](https://drive.google.com/file/d/1fDT6kT-3s9K1buYfHMoK5DHaFRFR-Q-Y/view?usp=sharing){:target="_blank"}
+   - [Download JAR](https://drive.google.com/file/d/18M0Z06qWJEnYlXzm4EJfqCLOuKxapmfF/view?usp=sharing)
+   - [Download BAT](https://drive.google.com/file/d/1fDT6kT-3s9K1buYfHMoK5DHaFRFR-Q-Y/view?usp=sharing)
 
 2. **Place the Files Together**:
    Ensure the `.jar` file and the `.bat` file are in the same directory.
