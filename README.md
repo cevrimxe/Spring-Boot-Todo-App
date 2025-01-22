@@ -59,7 +59,7 @@ mvn spring-boot:run
 
 Once the application is running, open your browser and navigate to:
 ```
-http://localhost:8080
+http://localhost:8081
 ```
 
 ### Alternative Way to Run the Application
