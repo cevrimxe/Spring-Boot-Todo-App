@@ -59,8 +59,27 @@ mvn spring-boot:run
 
 Once the application is running, open your browser and navigate to:
 ```
-http://localhost:8081
+http://localhost:8080
 ```
+
+### Alternative Way to Run the Application
+
+If you prefer not to use Maven directly, you can run the application using the prebuilt **JAR file** and a **BAT file**:
+
+1. **Download the JAR and BAT Files**:
+   - [Download JAR](https://drive.google.com/file/d/18M0Z06qWJEnYlXzm4EJfqCLOuKxapmfF/view?usp=sharing)
+   - [Download BAT](https://drive.google.com/file/d/1fDT6kT-3s9K1buYfHMoK5DHaFRFR-Q-Y/view?usp=sharing)
+
+2. **Place the Files Together**:
+   Ensure the `.jar` file and the `.bat` file are in the same directory.
+
+3. **Run the BAT File**:
+   Double-click the `.bat` file to start the application.
+
+   The BAT file internally runs the following command:
+   ```
+   java -jar spring-boot-todo-app.jar
+   ```
 
 ## How to Use
 
@@ -94,5 +113,3 @@ src/
 |       |-- application.properties  # Configuration file
 |-- test/                     # Unit and integration tests
 ```
-
-
